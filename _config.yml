@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yi Han"
-  avatar           : "profile10.jpeg"
+  avatar           : "profile20.jpeg"
   bio              : "Email: nicole930@sjtu.edu.cn"
   location         : "Boston,MA"
   employer         :
@@ -175,10 +175,10 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  life:
     output: true
     permalink: /:collection/:path/
-  publications:
+  research:
     output: true
     permalink: /:collection/:path/
   portfolio:
@@ -209,19 +209,19 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _life
   - scope:
       path: ""
-      type: teaching
+      type: life
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _research
   - scope:
       path: ""
-      type: publications
+      type: research
     values:
       layout: single
       author_profile: true
