@@ -11,16 +11,9 @@ redirect_from:
 
 Hi, welcome to my homepage!
 
-I am a first-year PhD student in the [Department of Statistics at UC Berkeley](https://statistics.berkeley.edu). Previously, I majored in mathematics and statistics in Peking University, where I spent four great years in Yuanpei College and was very fortunate to be advised by Professor [Song Xi Chen](https://www.songxichen.com). Besides, I also had the pleasure of being a research assistant with Professor [Zheng Tracy Ke](http://zke.fas.harvard.edu) from Harvard University during the summer of 2020. 
+I am a senior student from School of Mathematics in Shanghai Jiao Tong University, China. I am major in statistics. Currently, i work as a research assistant in Professor [Rui Duan](https://sites.google.com/view/ruiduan/)'s group in Harvard T.H.Chan School of Public Health in Boston. Previously in 2022 Spring, I was an exchange student in Statistic and Data Science Department in Cornell University. I had the pleasure of doing an undergraduate project with Professor [Yang Ning](https://yangning.stat.cornell.edu). 
 
- My undergraduate research mainly focused on applied projects related to air pollution and COVID-19. There we develop and use statistical methods to evaluate air pollution in China, and help with the evaluation and prediction of the global pandemic (see my [publications](https://imyaxuan.github.io/publications/) for details). 
+My research interest lies broadly in ... 
 
 Feel free to contact me if you would like to connect!
-
-
--------
-
-
-> 世之奇伟瑰怪非常之观，常在于险远。 --- 王安石 《游褒禅山记》
-
 
