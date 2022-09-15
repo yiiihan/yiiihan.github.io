@@ -23,8 +23,7 @@ Jul. 2021-Aug. 2021 \\
 	- Performed front-end configuration to regional carbon rating related data imported by SQL in investment advisory system
 	- Used Python modules like request/ path/ Selenium/regular expressions to crawl statistical contents on web pages
 
-- President, Student Association, School of Mathematics, SJTU \\ 
-Dec. 2021- Jun. 2022 \\
+- President, Student Association, School of Mathematics, SJTU  
 	- Invited more than 20 alumni to give lectures about career paths and graduation school
 	- Organized Student Leadership Training Camp, holding over 20 lectures and New Students Orientation
 Program hosting over 400 freshmen
