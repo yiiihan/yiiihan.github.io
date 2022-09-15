@@ -20,3 +20,10 @@ My research interest lies mainly in developing statistical and machine learning 
 
 Feel free to contact me if you would like to connect!
 
+
+-------
+
+
+> Self Identity: # Passion Seeker   # So So Leader   # Foodie
+
+
