@@ -8,8 +8,8 @@ author_profile: true
 ## Education
 - B.S. in Statistics, Shanghai Jiaotong University (SJTU), Shanghai, China, Sept. 2019 - Jun. 2023 (Expected) \\
 GPA: 3.93/4.3(90.3/100) Rank: Top 2
-- Exchange Student, Cornell University, Ithaca, NY, Jan. 2022 - May. 2022 \\
-- Visiting Student, Department of Biostatistics, Harvard T.H. Chan School of Public Health, Boston, MA, Sep. 2022 - Mar. 2023
+- Exchange Student, Cornell University, Ithaca, NY, Jan. 2022 - May. 2022 
+- Visiting Student, Harvard T.H. Chan School of Public Health, Boston, MA, Sep. 2022 - Mar. 2023
 
 ## Experience
 - Research Assistant, Department of Biostatistics, Harvard T.H.Chan School of Public Health \\
@@ -20,11 +20,12 @@ regression, decision tree, boosting, maximin method and deep learning
 from large databases and conducted mapping, merging and PRS estimation methods on genotype data
 
 - Data Science Intern, Shanghai Fields Technology Co., Ltd.\\
-Jul. 2021-Aug. 2021 \\
+Jul. 2021 - Aug. 2021 \\
 	- Performed front-end configuration to regional carbon rating related data imported by SQL in investment advisory system
 	- Used Python modules like request/ path/ Selenium/regular expressions to crawl statistical contents on web pages
 
-- President, Student Association, School of Mathematics, SJTU  
+- President, Student Association, School of Mathematics, SJTU  \\
+Dec. 2020 - Jul. 2022 \\
 	- Invited more than 20 alumni to give lectures about career paths and graduation school
 	- Organized Student Leadership Training Camp, holding over 20 lectures and New Students Orientation
 Program hosting over 400 freshmen
