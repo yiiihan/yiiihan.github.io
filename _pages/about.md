@@ -12,7 +12,7 @@ redirect_from:
 
 Hi, welcome to my homepage!
 
-I am a senior in School of Mathematics in Shanghai Jiao Tong University(SJTU), China. Currently, i work as a research assistant in Professor [Rui Duan](https://sites.google.com/view/ruiduan/)'s group in Harvard T.H.Chan School of Public Health in Boston. 
+I am a senior in School of Mathematics in Shanghai Jiao Tong University(SJTU), China. Currently, i work as a research assistant in Professor [Rui Duan](https://sites.google.com/view/ruiduan/)'s group in Harvard T.H.Chan School of Public Health. 
 
 Previously in 2022 Spring, I was an exchange student in Statistics and Data Science Department in Cornell University. I had the pleasure of doing an independent project supervised by Professor [Yang Ning](https://yangning.stat.cornell.edu) about regression discontinuity.
 
@@ -24,6 +24,6 @@ Feel free to contact me if you would like to connect!
 -------
 
 
-> Self Identity: # Passion Seeker   # So So Leader   # Foodie
+> Self Identity: # Passion Seeker   # Foodie
 
 
