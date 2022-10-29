@@ -6,9 +6,10 @@ author_profile: true
 ---
 
 ## Education
-- B.S. in Statistics, Shanghai Jiaotong University (SJTU), Shanghai, China, Sept. 2019-Jun. 2023 (Expected) \\
+- B.S. in Statistics, Shanghai Jiaotong University (SJTU), Shanghai, China, Sept. 2019 - Jun. 2023 (Expected) \\
 GPA: 3.93/4.3(90.3/100) Rank: Top 2
-- Exchange Student, Cornell University, Ithaca, USA, Jan. 2022-May. 2022
+- Exchange Student, Cornell University, Ithaca, NY, Jan. 2022 - May. 2022 \\
+- Visiting Student, Department of Biostatistics, Harvard T.H. Chan School of Public Health, Boston, MA, Sep. 2022 - Mar. 2023
 
 ## Experience
 - Research Assistant, Department of Biostatistics, Harvard T.H.Chan School of Public Health \\
