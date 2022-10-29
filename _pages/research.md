@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 ## Publications
-- Gu T, Han Y, Duan R(2022) A transfer learning approach based on random forest with application to breast cancer prediction in underrepresented populations, Accepted for Pacific Symposium on Biocomputing (PSB) 2023
+- Gu T, \textbf{Han Y}, Duan R(2022) A transfer learning approach based on random forest with application to breast cancer prediction in underrepresented populations. \textit{Proceedings of Pacific Symposium on Biocomputing} \href{https://psb.stanford.edu/callfor/papers/psb23_papers_allv2.pdf}{\footnotesize[LINK]} \\
+- Gu T, \textbf{Han Y}, Duan R(2022) Robust angle-based transfer learning in high dimensions. \textit{ArXiv} \href{http://arxiv.org/abs/2210.12759}{\footnotesize [LINK]}
 
 ## Projects
 - How does mask mandate effect online learning? From a regression discontinuity perspective. \\
