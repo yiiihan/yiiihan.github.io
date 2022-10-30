@@ -11,7 +11,7 @@ author_profile: true
 
 ### Campus Life, SJTU
 <div align="center">
-<img src="/_pages/images/IMG_8195.JPG" height="10px" alt="图片说明" >
+<img src="/_pages/images/IMG_8196.JPG" height="10px" alt="图片说明" >
 </div>
 
 ### My Legos
