@@ -10,6 +10,7 @@ author_profile: true
 [A transfer learning approach based on random forest with application to breast cancer prediction in underrepresented populations.](https://psb.stanford.edu/callfor/papers/psb23_papers_allv2.pdf)  <br />
 *Proceedings of Pacific Symposium on Biocomputing* <br />
 Gu T, **Han Y**, Duan R(2022) <br />
+We propose a transfer learning framework based on random forest models (TransRF). Our method incorporate risk prediction models trained in a source population to improve the prediction performance in a target underrepresented population with limited sample size.
 
 
 [Robust angle-based transfer learning in high dimensions.](http://arxiv.org/abs/2210.12759) <br />
@@ -21,9 +22,9 @@ We propose a novel flexible angle-based transfer learning (angleTL) method, whic
 ---
 **Transfer Learning Methods in Leveraging Sources to Improve Presicion Health** <br />
 Advisor: Professor Rui Duan, Department of Biostatistics, Harvard T.H. Chan School of Public Health, May.2022 - Now <br />
-– Proposed a random forest-based TL framework targeting risk prediction and improved AUC substantially.
-– Designed an angle-based transfer learning framework and conducted cross-validation to select tuning parameters.
-– Reproduced existing DNN and CNN transfer learning algorithms with Pytorch to biomedical data.
+- Proposed a random forest-based TL framework targeting risk prediction and improved AUC substantially.
+- Designed an angle-based transfer learning framework and conducted cross-validation to select tuning parameters.
+- Reproduced existing DNN and CNN transfer learning algorithms with Pytorch to biomedical data.
 
 **How does mask mandate effect online learning? From a regression discontinuity perspective.** <br />
 Advisor: Professor Yang Ning, Department of Statistics and Data Science, Cornell University, Feb.2022 - May.2022 <br />
