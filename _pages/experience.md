@@ -4,28 +4,48 @@ title: "Experience"
 permalink: /experience/
 author_profile: true
 ---
+{% include base_path %}
+
+A PDF of my CV is available [here](http://yiiihan.github.io/files/CV_YiHan_1026.pdf)
+
+<!-- <embed src="http://yiiihan.github.io/files/CV_YiHan_1026.pdf" width="650" height="1800" type='application/pdf'> -->
 
 ## Education
-- B.S. in Statistics, Shanghai Jiaotong University (SJTU), Shanghai, China, Sept. 2019 - Jun. 2023 (Expected) \\
-GPA: 3.93/4.3(90.3/100) Rank: Top 2
-- Exchange Student, Cornell University, Ithaca, NY, Jan. 2022 - May. 2022 
-- Visiting Student, Harvard T.H. Chan School of Public Health, Boston, MA, Sep. 2022 - Mar. 2023
+---
+** Shanghai Jiaotong University **
+BS in Statistics, Sept. 2019 - Jun. 2023 (Expected)
+GPA: 3.93/4.3 (90.3/100)
 
-## Experience
-- Research Assistant, Department of Biostatistics, Harvard T.H.Chan School of Public Health \\
-Sep. 2021 - Present \\
-	- Exploit statistical and machine learning methods and their application on large scale biomedical datasets, including
-regression, decision tree, boosting, maximin method and deep learning
-	- Manage data including formating and reformating large scale datasets such as UK biobank, extracted information needed
-from large databases and conducted mapping, merging and PRS estimation methods on genotype data
+** Harvard T.H. Chan School of Public Health **
+Visiting Student, Sep. 2022 - Mar. 2023 (Expected)
 
-- Data Science Intern, Shanghai Fields Technology Co., Ltd.\\
-Jul. 2021 - Aug. 2021 \\
-	- Performed front-end configuration to regional carbon rating related data imported by SQL in investment advisory system
-	- Used Python modules like request/ path/ Selenium/regular expressions to crawl statistical contents on web pages
+** Cornell University **
+Exchange Student, Jan. 2022 - May. 2022 
+GPA: 3.958/4.3 
 
-- President, Student Association, School of Mathematics, SJTU  \\
-Dec. 2020 - Jul. 2022 \\
-	- Invited more than 20 alumni to give lectures about career paths and graduation school
-	- Organized Student Leadership Training Camp, holding over 20 lectures and New Students Orientation
-Program hosting over 400 freshmen
+
+## Service
+---
+** Student Union, School of Mathematics, SJTU **
+President, Dec. 2020 - Jul. 2022 
+- Initiated mentoring program to provide peer-to-peer guidance on academics and campus life.
+- Invited more than 20 alumni to give lectures about career paths and graduation school.
+- Organizing meetings and discussions to represent undegraduate student interests including courses, academics, student-life, and mental health.
+
+** Student Union, Shanghai Jiao Tong University **
+Department Leader, Nov. 2020 - Sep. 2021
+- Organized Student Leadership Training Camp, holding over 20 lectures and New Students Orientation Program hosting over 400 freshmen.
+
+## Internship
+---
+** Shanghai Fields Technology **
+Intern at the Data & Algorithm Team, Jul. 2021 - Aug. 2021
+- Performed front-end configuration to regional carbon rating related data using SQL in investment advisory system.
+- Utilized Python module to crawl statistical contents on web pages.
+
+** Huaying Securities **
+Intern at the Sales & Trading Department, Jan.2021 - Feb, 2022
+- Evaluated changes in interest rates, coupon rates, maturity and bond credit ratings for a bond issuance report.
+
+
+
