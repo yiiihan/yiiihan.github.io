@@ -13,20 +13,20 @@ A PDF of my CV is available [here](http://yiiihan.github.io/files/CV_YiHan_1026.
 ## Education
 ---
 **Shanghai Jiaotong University**
-BS in Statistics, Sept. 2019 - Jun. 2023 (Expected)
+BS in Statistics, Sept. 2019 - Jun. 2023 (Expected) \\
 GPA: 3.93/4.3 (90.3/100)
 
 **Harvard T.H. Chan School of Public Health**
-Visiting Student, Sep. 2022 - Mar. 2023 (Expected)
+Visiting Student, Sep. 2022 - Mar. 2023 (Expected) \\
 
 **Cornell University**
-Exchange Student, Jan. 2022 - May. 2022 
+Exchange Student, Jan. 2022 - May. 2022 \\
 GPA: 3.958/4.3 
 
 
 ## Service
 ---
-**Student Union, School of Mathematics, SJTU**
+**Student Union, School of Mathematics, SJTU** 
 President, Dec. 2020 - Jul. 2022 
 - Initiated mentoring program to provide peer-to-peer guidance on academics and campus life.
 - Invited more than 20 alumni to give lectures about career paths and graduation school.
