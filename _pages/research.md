@@ -21,26 +21,30 @@ We propose a novel flexible angle-based transfer learning (angleTL) method, whic
 ## Projects
 ---
 **Transfer Learning Methods in Leveraging Sources to Improve Presicion Health** <br />
-Advisor: Professor Rui Duan, Department of Biostatistics, Harvard T.H. Chan School of Public Health, May.2022 - Now <br />
+Advisor: Professor Rui Duan, Department of Biostatistics, Harvard T.H. Chan School of Public Health <br />
+May.2022 - Now <br />
 - Proposed a random forest-based TL framework targeting risk prediction and improved AUC substantially.
 - Designed an angle-based transfer learning framework and conducted cross-validation to select tuning parameters.
 - Reproduced existing DNN and CNN transfer learning algorithms with Pytorch to biomedical data.
 
 **How does mask mandate effect online learning? From a regression discontinuity perspective.** <br />
-Advisor: Professor Yang Ning, Department of Statistics and Data Science, Cornell University, Feb.2022 - May.2022 <br />
+Advisor: Professor Yang Ning, Department of Statistics and Data Science, Cornell University <br /> 
+Feb.2022 - May.2022 <br />
 - Constructed a regression discontinuity framework including sharp regression with discontinuity design and constant
 treatment effect model and discovered negative treatment effects on the face mask mandate had on online learning.
 - Evaluated the influence of the COVID-19 pandemic on education inequity by comparing the effects of face masks across
 school districts varying in percentage of minorities and per pupil total expenditure.
 
 **Selecting Hyper-parameters for Options Pricing Model** <br />
-Advisor: Professor Yingda Song, Financial Engineering Research Center, SJTU, Jun.2021 - Mar.2022 <br />
+Advisor: Professor Yingda Song, Financial Engineering Research Center, SJTU <br />
+Jun.2021 - Mar.2022 <br />
 - Conducted simulations on five continuous Markov chain grids in the pricing of European double barrier options.
 - Analyzed the applicability and features of these grid design methods under the choice of underlying asset model.
 - Designed adaptive grids by iterating continuous Markov chain to simulate strike prices at expiration using Monte Carlo.
 
 **Multi-factor Stock Selection Model Based on Regression Model** <br />
-Advisor: Dr. Chenru Liu, Management Science and Engineering, Stanford University, Jan. 2021 - Apr. 2021 <br />
+Advisor: Dr. Chenru Liu, Management Science and Engineering, Stanford University <br />
+Jan. 2021 - Apr. 2021 <br />
 - Preprocessed stock data to construct market and financial indicators and validate factors using single-factor analysis.
 - Performed PCA tests to select factors and reduce multicollinearity.
 
