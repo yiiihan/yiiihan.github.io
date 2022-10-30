@@ -14,7 +14,7 @@ Hi, welcome to my homepage!
 
 I am a senior in [School of Mathematics](https://math.sjtu.edu.cn), Shanghai Jiao Tong University(SJTU), China. In 2022 fall, I am a visiting student in Dpartment of Biostatistics, Harvard T.H.Chan School of Public Health, advised by Professor [Rui Duan](https://sites.google.com/view/ruiduan/). In 2022 Spring, I was an exchange student in Statistics and Data Science Department in Cornell University, advised by Professor [Yang Ning](https://yangning.stat.cornell.edu).
 
-My research mainly lies in developing novel statistical and machine learning methods to study different types of large-scale real-world data to improve decision making in ublic health. Specifically, my academic interests include transfer learning and federated learning methods in presicion health. I am also interested in stochastic process and its application in financial engineering.
+My research mainly lies in developing novel statistical and machine learning methods to study different types of large-scale real-world data to improve decision making in public health. Specifically, my academic interests include transfer learning and federated learning methods in presicion health. I am also interested in stochastic process and its application in financial engineering.
 
 I enjoy hiking, camping, and playing badminton (epsecially playing doubles with my friends).
 
