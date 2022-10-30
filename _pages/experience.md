@@ -47,5 +47,11 @@ Intern at the Data & Algorithm Team, Jul. 2021 - Aug. 2021
 Intern at the Sales & Trading Department, Jan.2021 - Feb, 2022
 - Evaluated changes in interest rates, coupon rates, maturity and bond credit ratings for a bond issuance report.
 
-
+## Honors and Awards
+---
+- Fan's Scholarship, 2021,2022 (awarded to 10 undergraduates each year)
+- First Prize in Contemporary Undergraduate Mathematical Contest in Modeling, China, 2021
+- Student Leadership Award, 2021
+- Outstanding Independent Study, 2021 (top 5%)
+- Outstanding Students Award, 2019, 2020
 
