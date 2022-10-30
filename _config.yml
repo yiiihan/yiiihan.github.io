@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yi Han"
   avatar           : "profile10.jpeg"
-  bio              : "Email: yhan@hsph.harvard.edu"
+  bio              : "Undergraduate at Shanghai Jiao Tong University
   location         : "Boston,MA"
   employer         :
   pubmed           : 
   googlescholar    : #"https://scholar.google.com/citations?user=V-urnRQAAAAJ&hl=zh-CN"
-  email            :
+  email            : "yhan@hsph.harvard.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
