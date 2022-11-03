@@ -20,6 +20,11 @@ We propose a novel flexible angle-based transfer learning (angleTL) method, whic
 
 ## Projects
 ---
+**Mix-GWAS Polygenic Scores Estimation Method** <br />
+Advisor: Professor Rui Duan, Department of Biostatistics, Harvard T.H. Chan School of Public Health <br />
+Sep.2022 - Now <br />
+- Proposed a ranking-based polygenic scores ensemble method, and generated PRSs using multiple summary statistics and PRS estimation method (LDpred, PRSCS, SDPR, Sbayes, Lassosum)
+
 **Transfer Learning Methods in Leveraging Sources to Improve Presicion Health** <br />
 Advisor: Professor Rui Duan, Department of Biostatistics, Harvard T.H. Chan School of Public Health <br />
 May.2022 - Now <br />
