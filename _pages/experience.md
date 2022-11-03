@@ -34,7 +34,8 @@ President, Dec. 2020 - Jul. 2022
 
 **Student Union, Shanghai Jiao Tong University** <br />
 Department Leader, Nov. 2020 - Sep. 2021
-- Organized Student Leadership Training Camp, holding over 20 lectures and New Students Orientation Program hosting over 400 freshmen.
+- Organized Student Leadership Training Camp, holding over 20 lectures and hosting over 100 students.
+- Co-lead the Organization Committee of Freshmen Orientation Program, which hosting over 400 freshmen over 6 days.
 
 ## Internship
 ---
@@ -52,6 +53,7 @@ Intern at the Sales & Trading Department, Jan.2021 - Feb, 2022
 - Fan's Scholarship, 2021,2022 (awarded to 10 undergraduates each year)
 - First Prize in Contemporary Undergraduate Mathematical Contest in Modeling, China, 2021
 - Student Leadership Award, 2021
-- Outstanding Independent Study, 2021 (top 5%)
+- Outstanding Independent Study, 2021 
+- Lau's Scholarship, 2020
 - Outstanding Students Award, 2019, 2020
 
