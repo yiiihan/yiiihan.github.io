@@ -18,7 +18,7 @@ We propose a transfer learning framework based on random forest models (TransRF)
 Gu T, **Han Y**, Duan R(2022) <br />
 We propose a novel flexible angle-based transfer learning (angleTL) method, which leverages the concordance between the source and the target model parameters. <br />
 
-## Projects
+## Research Experience
 ---
 **Mix-GWAS Polygenic Scores Estimation Method** <br />
 Advisor: Professor Rui Duan, Department of Biostatistics, Harvard T.H. Chan School of Public Health <br />
