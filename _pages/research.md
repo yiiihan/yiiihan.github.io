@@ -7,7 +7,7 @@ author_profile: true
 
 ## Publications
 ---
-[A transfer learning approach based on random forest with application to breast cancer prediction in underrepresented populations.]([https://psb.stanford.edu/callfor/papers/psb23_papers_allv2.pdf](https://www.worldscientific.com/doi/pdf/10.1142/9789811270611_0018))  <br />
+[A transfer learning approach based on random forest with application to breast cancer prediction in underrepresented populations.](https://www.worldscientific.com/doi/pdf/10.1142/9789811270611_0018)  <br />
 *Proceedings of Pacific Symposium on Biocomputing* <br />
 Gu T, **Han Y**, Duan R(2022) <br />
 We propose a transfer learning framework based on random forest models (TransRF). Our method incorporate risk prediction models trained in a source population to improve the prediction performance in a target underrepresented population with limited sample size.
