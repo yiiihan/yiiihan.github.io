@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-A PDF of my CV is available [here](http://yiiihan.github.io/files/CV_YiHan_1026.pdf).
+A PDF of my CV is available [here](http://yiiihan.github.io/files/CV - YiHan 1130.pdf).
 
 <!-- <embed src="http://yiiihan.github.io/files/CV_YiHan_1026.pdf" width="650" height="1800" type='application/pdf'> -->
 
