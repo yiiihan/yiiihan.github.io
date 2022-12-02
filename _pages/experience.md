@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-A PDF of my CV is available [here](http://yiiihan.github.io/files/CV - YiHan 1130.pdf).
+A PDF of my CV is available [here](http://yiiihan.github.io/files/CV-YiHan1130.pdf).
 
 <!-- <embed src="http://yiiihan.github.io/files/CV_YiHan_1026.pdf" width="650" height="1800" type='application/pdf'> -->
 
@@ -16,12 +16,12 @@ A PDF of my CV is available [here](http://yiiihan.github.io/files/CV - YiHan 113
 BS in Statistics, Sept. 2019 - Jun. 2023 (Expected) <br />
 GPA: 3.93/4.3 (90.3/100)
 
-**Harvard T.H. Chan School of Public Health** <br />
-Visiting Student, Sep. 2022 - Mar. 2023 (Expected) <br />
-
 **Cornell University** <br />
 Exchange Student, Jan. 2022 - May. 2022 <br />
 GPA: 3.958/4.3 
+
+**Harvard T.H. Chan School of Public Health** <br />
+Visiting Student, Department of Biostatistics, Sep. 2022 - Mar. 2023 (Expected) <br />
 
 
 ## Service
