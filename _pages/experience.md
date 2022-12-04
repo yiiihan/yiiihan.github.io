@@ -13,15 +13,16 @@ A PDF of my CV is available [here](http://yiiihan.github.io/files/CV-YiHan1130.p
 ## Education
 ---
 **Shanghai Jiaotong University** <br />
-BS in Statistics, Sept. 2019 - Jun. 2023 (Expected) <br />
-GPA: 3.93/4.3 (90.3/100)
+Bachelor of Science in Statistics, Sept. 2019 - Jun. 2023 (Expected) <br />
+- GPA: 3.93/4.3 (90.3/100)
+- Rank: 2/48
 
 **Cornell University** <br />
 Exchange Student, Jan. 2022 - May. 2022 <br />
-GPA: 3.958/4.3 
+- GPA: 3.958/4.3 
 
 **Harvard T.H. Chan School of Public Health** <br />
-Visiting Student, Department of Biostatistics, Sep. 2022 - Mar. 2023 (Expected) <br />
+Visiting Student, Department of Biostatistics, Sep. 2022 - Feb. 2023 (Expected) <br />
 
 
 ## Service
