@@ -6,28 +6,27 @@ author_profile: true
 ---
 {% include base_path %}
 
-A PDF of my CV is available [here](http://yiiihan.github.io/files/CV-YiHan1130.pdf).
+A PDF of my CV is available [here](http://yiiihan.github.io/files/CV_YiHan.pdf).
 
-<!-- <embed src="http://yiiihan.github.io/files/CV_YiHan_1026.pdf" width="650" height="1800" type='application/pdf'> -->
+<!-- <embed src="http://yiiihan.github.io/files/CV_YiHan.pdf" width="650" height="1800" type='application/pdf'> -->
 
 ## Education
 ---
 **Shanghai Jiaotong University** <br />
 Bachelor of Science in Statistics, Sept. 2019 - Jun. 2023 (Expected) <br />
-- GPA: 3.93/4.3 (90.3/100)
-- Rank: 2/48
+- GPA: 3.93/4.3
 
 **Cornell University** <br />
 Exchange Student, Jan. 2022 - May. 2022 <br />
-- GPA: 3.958/4.3 
+- GPA: 3.957/4.3 
 
 **Harvard T.H. Chan School of Public Health** <br />
-Visiting Student, Department of Biostatistics, Sep. 2022 - Feb. 2023 (Expected) <br />
+Visiting Student, Department of Biostatistics, Sep. 2022 - Feb. 2023 <br />
 
 
 ## Service
 ---
-**Student Union, School of Mathematics, SJTU** <br />
+**Student Union, School of Mathematics, Shanghai Jiao Tong University** <br />
 President, Dec. 2020 - Jul. 2022 
 - Initiated mentoring program to provide peer-to-peer guidance on academics and campus life.
 - Invited more than 20 alumni to give lectures about career paths and graduation school.
