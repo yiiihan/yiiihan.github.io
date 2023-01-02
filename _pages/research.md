@@ -13,7 +13,7 @@ Gu T, **Han Y**, Duan R(2022) <br />
 We propose a transfer learning framework based on random forest models (TransRF). Our method incorporate risk prediction models trained in a source population to improve the prediction performance in a target underrepresented population with limited sample size.
 
 
-[Robust angle-based transfer learning in high dimensions.](http://arxiv.org/abs/2210.12759) <br />
+[Robust angle-based transfer learning in high dimensions.](https://arxiv.org/abs/2210.12759v2) <br />
 *ArXiv* <br />
 Gu T, **Han Y**, Duan R(2022) <br />
 We propose a novel flexible angle-based transfer learning (angleTL) method, which leverages the concordance between the source and the target model parameters. <br />
@@ -22,19 +22,19 @@ We propose a novel flexible angle-based transfer learning (angleTL) method, whic
 ---
 **Mix-GWAS Polygenic Scores Estimation Method** <br />
 Advisor: Professor Rui Duan, Department of Biostatistics, Harvard T.H. Chan School of Public Health <br />
-Oct.2022 - Now <br />
+Oct. 2022 - Now <br />
 - Proposed a ranking-based polygenic scores ensemble method, and generated PRSs using multiple summary statistics and PRS estimation method (LDpred, PRSCS, SDPR, Sbayes, Lassosum)
 
 **Transfer Learning Methods in Leveraging Sources to Improve Presicion Health** <br />
 Advisor: Professor Rui Duan and Dr. Tian Gu, Department of Biostatistics, Harvard T.H. Chan School of Public Health <br />
-May.2022 - Now <br />
+May. 2022 - Now <br />
 - Proposed a random forest-based TL framework targeting risk prediction and improved AUC substantially.
 - Designed an angle-based transfer learning framework and conducted cross-validation to select tuning parameters.
 - Reproduced existing DNN and CNN transfer learning algorithms with Pytorch to biomedical data.
 
 **How does mask mandate effect online learning? From a regression discontinuity perspective.** <br />
 Advisor: Professor Yang Ning, Department of Statistics and Data Science, Cornell University <br /> 
-Feb.2022 - May.2022 <br />
+Feb. 2022 - May. 2022 <br />
 - Constructed a regression discontinuity framework including sharp regression with discontinuity design and constant
 treatment effect model and discovered negative treatment effects on the face mask mandate had on online learning.
 - Evaluated the influence of the COVID-19 pandemic on education inequity by comparing the effects of face masks across
@@ -42,7 +42,7 @@ school districts varying in percentage of minorities and per pupil total expendi
 
 **Selecting Hyper-parameters for Options Pricing Model** <br />
 Advisor: Professor Yingda Song, Financial Engineering Research Center, SJTU <br />
-Jun.2021 - Mar.2022 <br />
+Jun. 2021 - Mar. 2022 <br />
 - Conducted simulations on five continuous Markov chain grids in the pricing of European double barrier options.
 - Analyzed the applicability and features of these grid design methods under the choice of underlying asset model.
 - Designed adaptive grids by iterating continuous Markov chain to simulate strike prices at expiration using Monte Carlo.
